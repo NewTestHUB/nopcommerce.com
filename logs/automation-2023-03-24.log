@@ -1,0 +1,482 @@
+22:17:23.632 [main] INFO  testBase.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+22:17:23.676 [main] INFO  testBase.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+22:17:25.087 [main] INFO  testBase.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+22:17:25.138 [main] INFO  testBase.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+22:17:37.147 [main] INFO  testBase.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+05:53:20.154 [main] INFO  testBase.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+05:53:20.273 [main] INFO  testBase.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+05:53:21.612 [main] INFO  testBase.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+05:53:21.658 [main] INFO  testBase.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+05:53:23.998 [main] INFO  testBase.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+05:54:30.461 [main] INFO  testBase.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+05:54:30.492 [main] INFO  testBase.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+05:54:31.109 [main] INFO  testBase.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+05:54:31.155 [main] INFO  testBase.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+05:54:42.690 [main] INFO  testBase.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+06:11:22.172 [main] INFO  testBase.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+06:11:22.210 [main] INFO  testBase.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+06:11:23.561 [main] INFO  testBase.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+06:11:23.611 [main] INFO  testBase.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+06:11:35.164 [main] INFO  testBase.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+06:14:19.241 [main] INFO  testBase.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+06:14:19.271 [main] INFO  testBase.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+06:14:19.867 [main] INFO  testBase.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+06:14:19.915 [main] INFO  testBase.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+06:16:52.562 [main] INFO  testBase.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+06:16:52.596 [main] INFO  testBase.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+06:16:53.949 [main] INFO  testBase.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+06:16:53.996 [main] INFO  testBase.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+06:17:05.623 [main] INFO  testBase.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+06:18:11.864 [main] INFO  testBase.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+06:18:11.891 [main] INFO  testBase.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+06:18:13.184 [main] INFO  testBase.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+06:18:13.231 [main] INFO  testBase.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+06:18:24.763 [main] INFO  testBase.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+06:19:21.704 [main] INFO  testBase.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+06:19:21.749 [main] INFO  testBase.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+06:19:23.061 [main] INFO  testBase.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+06:19:23.108 [main] INFO  testBase.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+06:21:06.005 [main] INFO  testBase.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+06:21:06.040 [main] INFO  testBase.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+06:21:06.669 [main] INFO  testBase.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+06:21:06.719 [main] INFO  testBase.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+06:26:03.505 [main] INFO  testBase.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+06:26:03.531 [main] INFO  testBase.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+06:26:04.841 [main] INFO  testBase.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+06:26:04.888 [main] INFO  testBase.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+06:27:20.333 [main] INFO  testBase.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+06:27:20.362 [main] INFO  testBase.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+06:27:21.685 [main] INFO  testBase.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+06:27:21.735 [main] INFO  testBase.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+06:31:35.682 [main] INFO  testBase.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+06:31:35.724 [main] INFO  testBase.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+06:31:37.063 [main] INFO  testBase.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+06:31:37.109 [main] INFO  testBase.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+06:41:10.780 [main] INFO  testBase.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+06:41:10.810 [main] INFO  testBase.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+06:41:12.144 [main] INFO  testBase.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+06:41:12.193 [main] INFO  testBase.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+06:45:03.764 [main] INFO  testBase.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+06:45:03.811 [main] INFO  testBase.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+06:45:05.111 [main] INFO  testBase.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+06:45:05.161 [main] INFO  testBase.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+06:56:52.067 [main] INFO  testBase.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+06:56:52.094 [main] INFO  testBase.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+06:56:53.442 [main] INFO  testBase.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+06:56:53.488 [main] INFO  testBase.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+07:00:37.962 [main] INFO  testBase.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+07:00:37.989 [main] INFO  testBase.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+07:00:39.314 [main] INFO  testBase.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+07:00:39.358 [main] INFO  testBase.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+07:31:14.315 [main] INFO  testBase.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+07:31:14.342 [main] INFO  testBase.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+07:31:15.704 [main] INFO  testBase.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+07:31:15.752 [main] INFO  testBase.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+07:35:48.133 [main] INFO  testBase.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+07:35:48.165 [main] INFO  testBase.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+07:35:49.544 [main] INFO  testBase.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+07:35:49.591 [main] INFO  testBase.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+07:37:18.593 [main] INFO  testBase.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+07:37:18.627 [main] INFO  testBase.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+07:37:19.273 [main] INFO  testBase.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+07:37:19.321 [main] INFO  testBase.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+07:38:24.811 [main] INFO  testBase.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+07:38:24.841 [main] INFO  testBase.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+07:38:26.156 [main] INFO  testBase.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+07:38:26.202 [main] INFO  testBase.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+07:40:02.661 [main] INFO  testBase.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+07:40:02.687 [main] INFO  testBase.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+07:40:04.027 [main] INFO  testBase.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+07:40:04.074 [main] INFO  testBase.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+07:42:24.760 [main] INFO  testBase.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+07:42:24.797 [main] INFO  testBase.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+07:42:26.119 [main] INFO  testBase.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+07:42:26.167 [main] INFO  testBase.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+07:44:31.163 [main] INFO  testBase.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+07:44:31.191 [main] INFO  testBase.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+07:44:31.798 [main] INFO  testBase.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+07:44:31.845 [main] INFO  testBase.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+07:44:34.186 [main] INFO  testBase.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+07:45:08.190 [main] INFO  testBase.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+07:45:08.217 [main] INFO  testBase.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+07:45:09.532 [main] INFO  testBase.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+07:45:09.578 [main] INFO  testBase.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+07:49:27.490 [main] INFO  testBase.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+07:49:27.542 [main] INFO  testBase.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+07:49:28.902 [main] INFO  testBase.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+07:49:28.947 [main] INFO  testBase.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+07:49:31.828 [main] INFO  testBase.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+07:51:25.807 [main] INFO  testBase.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+07:51:25.840 [main] INFO  testBase.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+07:51:27.176 [main] INFO  testBase.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+07:51:27.227 [main] INFO  testBase.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+07:51:29.545 [main] INFO  testBase.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+07:52:28.201 [main] INFO  testBase.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+07:52:28.231 [main] INFO  testBase.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+07:52:29.568 [main] INFO  testBase.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+07:52:29.614 [main] INFO  testBase.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+07:54:06.411 [main] INFO  testBase.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+07:54:06.439 [main] INFO  testBase.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+07:54:07.780 [main] INFO  testBase.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+07:54:07.829 [main] INFO  testBase.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+07:55:59.551 [main] INFO  testBase.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+07:55:59.582 [main] INFO  testBase.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+07:56:00.937 [main] INFO  testBase.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+07:56:00.983 [main] INFO  testBase.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+07:59:28.073 [main] INFO  testBase.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+07:59:28.099 [main] INFO  testBase.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+07:59:29.478 [main] INFO  testBase.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+07:59:29.524 [main] INFO  testBase.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+08:05:10.527 [main] INFO  testBase.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+08:05:10.553 [main] INFO  testBase.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+08:05:11.868 [main] INFO  testBase.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+08:05:11.918 [main] INFO  testBase.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+08:05:48.195 [main] INFO  testBase.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+08:05:48.219 [main] INFO  testBase.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+08:05:49.518 [main] INFO  testBase.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+08:05:49.567 [main] INFO  testBase.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+08:05:51.907 [main] INFO  testBase.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+12:43:06.278 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+12:43:06.309 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+12:43:07.635 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+12:43:07.680 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+12:43:10.098 [main] INFO  testCases.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+12:45:18.053 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+12:45:18.082 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+12:45:19.447 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+12:45:19.498 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+12:50:03.916 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+12:50:03.944 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+12:50:05.341 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+12:50:05.387 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+12:55:21.781 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+12:55:21.810 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+12:55:22.471 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+12:55:22.516 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+12:57:23.190 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+12:57:23.222 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+12:57:24.686 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+12:57:24.736 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+12:58:54.700 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+12:58:54.732 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+12:58:55.449 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+12:58:55.498 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+13:00:18.989 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+13:00:19.022 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+13:00:20.409 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+13:00:20.462 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+13:02:04.521 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+13:02:04.553 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+13:02:06.187 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+13:02:06.238 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+13:06:46.480 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+13:06:46.507 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+13:06:47.100 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+13:06:47.149 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+13:07:48.790 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+13:07:48.822 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+13:07:50.162 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+13:07:50.212 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+13:07:53.262 [main] INFO  testCases.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+13:09:28.472 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+13:09:28.499 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+13:09:29.846 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+13:09:29.893 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+13:13:34.376 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+13:13:34.420 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+13:13:35.840 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+13:13:35.891 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+13:15:41.423 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+13:15:41.454 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+13:15:42.859 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+13:15:42.911 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+13:18:03.071 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+13:18:03.101 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+13:18:04.534 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+13:18:04.583 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+05:12:44.818 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+05:12:44.846 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+05:12:46.139 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+05:12:46.176 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+05:12:48.058 [main] INFO  testCases.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+06:00:26.947 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+06:00:26.993 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+06:00:28.321 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+06:00:28.356 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+06:00:48.301 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+06:12:25.889 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+06:12:25.918 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+06:12:27.379 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+06:12:27.419 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+06:12:29.466 [main] INFO  testCases.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+06:12:34.123 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+06:15:17.820 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+06:15:17.853 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+06:15:19.163 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+06:15:19.203 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+06:15:21.190 [main] INFO  testCases.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+06:15:26.495 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+06:18:38.869 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+06:18:38.908 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+06:18:40.159 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+06:18:40.201 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+06:18:42.136 [main] INFO  testCases.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+06:18:47.802 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+06:21:04.432 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+06:21:04.464 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+06:21:05.719 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+06:21:05.756 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+06:21:07.715 [main] INFO  testCases.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+06:21:12.445 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+06:21:14.753 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest ***
+06:25:30.863 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+06:25:30.890 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+06:25:33.925 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+06:25:33.962 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+06:25:36.309 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+06:25:43.771 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+06:25:43.773 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+06:25:45.020 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+06:25:45.055 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+06:25:47.436 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+06:25:56.124 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+06:25:56.125 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+06:25:57.765 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+06:25:57.792 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+06:25:59.899 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+11:15:02.216 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+11:15:02.250 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+11:15:02.836 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+11:15:02.872 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+11:15:04.802 [main] INFO  testCases.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+11:16:22.174 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+11:16:22.202 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+11:16:22.797 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+11:16:22.834 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+11:16:24.802 [main] INFO  testCases.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+12:30:38.786 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+12:30:38.817 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+12:30:40.137 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+12:30:40.174 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+12:30:42.249 [main] INFO  testCases.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+12:30:46.282 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+12:30:47.952 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest ***
+12:30:51.950 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+12:52:28.934 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+12:53:03.002 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+12:54:10.518 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+12:56:10.336 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+12:56:55.414 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+12:58:52.561 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+13:00:09.474 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+13:00:13.247 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+13:07:27.189 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+13:07:35.231 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+13:09:19.993 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+13:09:25.727 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+13:10:35.552 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+13:10:40.002 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+13:13:54.931 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+13:14:00.624 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+13:15:51.968 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+13:15:57.650 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+13:23:31.669 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+13:23:37.689 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+13:24:57.362 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+13:25:02.574 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+13:25:55.343 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+13:26:00.648 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+13:38:31.448 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+13:38:36.755 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+13:41:20.678 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+13:41:26.462 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+13:44:14.290 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+13:44:14.325 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+13:44:15.627 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+13:44:15.665 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+13:44:17.638 [main] INFO  testCases.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+13:44:21.556 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+13:44:23.980 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest ***
+13:44:27.620 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+13:44:34.290 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+13:47:07.583 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+13:47:07.613 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+13:47:08.974 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+13:47:09.012 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+13:47:26.160 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+13:47:28.521 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest ***
+13:47:32.543 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+13:52:35.948 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+13:52:35.982 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+13:52:36.555 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+13:52:36.592 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+13:52:53.838 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+13:52:56.221 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest ***
+13:53:00.445 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+13:53:06.463 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+15:07:38.590 [main] INFO  testCases.TC_004_AddToCartTest - *** Starting TC_004_AddToCartTest ***
+15:07:45.877 [main] INFO  testCases.TC_004_AddToCartTest - *** Starting TC_004_AddToTest ***
+15:56:48.032 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+15:56:48.063 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+15:56:49.383 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+15:56:49.427 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+15:56:51.414 [main] INFO  testCases.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+16:14:14.050 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+16:14:14.081 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+16:14:15.398 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+16:14:15.437 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+16:14:17.413 [main] INFO  testCases.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+17:16:07.801 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+17:16:07.846 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+17:16:08.400 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+17:16:08.437 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+17:16:10.491 [main] INFO  testCases.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+17:58:11.813 [main] INFO  testCases.TC_006_EndToEndTest - *** Starting TC_06_EndToEndTest ***
+17:58:11.817 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Home Page ----
+17:58:13.156 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Home Page ----
+17:58:13.156 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Registration Page ----
+18:06:15.301 [main] INFO  testCases.TC_006_EndToEndTest - *** Starting TC_06_EndToEndTest ***
+18:06:15.305 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Home Page ----
+18:06:16.658 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Home Page ----
+18:06:16.659 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Registration Page ----
+18:09:21.750 [main] INFO  testCases.TC_006_EndToEndTest - *** Starting TC_06_EndToEndTest ***
+18:09:21.755 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Home Page ----
+18:09:23.104 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Home Page ----
+18:09:23.105 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Registration Page ----
+18:10:28.465 [main] INFO  testCases.TC_006_EndToEndTest - *** Starting TC_06_EndToEndTest ***
+18:10:28.469 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Home Page ----
+18:10:29.889 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Home Page ----
+18:10:29.889 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Registration Page ----
+18:12:28.938 [main] INFO  testCases.TC_006_EndToEndTest - *** Starting TC_06_EndToEndTest ***
+18:12:28.943 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Home Page ----
+18:12:29.547 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Home Page ----
+18:12:29.547 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Registration Page ----
+18:16:21.510 [main] INFO  testCases.TC_006_EndToEndTest - *** Starting TC_06_EndToEndTest ***
+18:16:21.514 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Home Page ----
+18:16:22.819 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Home Page ----
+18:16:22.819 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Registration Page ----
+18:17:02.461 [main] INFO  testCases.TC_006_EndToEndTest - *** Starting TC_06_EndToEndTest ***
+18:17:02.465 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Home Page ----
+18:17:03.809 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Home Page ----
+18:17:03.809 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Registration Page ----
+18:17:06.421 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Registration Page ----
+18:17:06.421 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Login Page ----
+18:17:08.023 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Login Page ----
+18:17:08.024 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Search Page ----
+18:19:48.636 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+18:19:48.666 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+18:19:49.946 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+18:19:49.984 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+18:19:51.924 [main] INFO  testCases.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+18:25:17.010 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+18:25:19.515 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest ***
+18:28:56.954 [main] INFO  testCases.TC_006_EndToEndTest - *** Starting TC_06_EndToEndTest ***
+18:28:56.959 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Home Page ----
+18:28:58.309 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Home Page ----
+18:28:58.309 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Registration Page ----
+18:29:00.967 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Registration Page ----
+18:29:00.967 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Login Page ----
+18:29:02.601 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Login Page ----
+18:29:02.601 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Search Page ----
+18:29:04.687 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Search Page ----
+18:29:04.688 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Add to Cart Page ----
+18:29:07.356 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Add to Cart Page ----
+18:29:07.356 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Shopping Cart Page ----
+18:29:09.966 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Shopping Cart Page ----
+18:29:09.967 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Checkout Page ----
+18:32:15.773 [main] INFO  testCases.TC_006_EndToEndTest - *** Starting TC_06_EndToEndTest ***
+18:32:15.778 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Home Page ----
+18:32:17.101 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Home Page ----
+18:32:17.101 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Registration Page ----
+18:32:19.704 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Registration Page ----
+18:32:19.704 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Login Page ----
+18:32:21.308 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Login Page ----
+18:32:21.308 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Search Page ----
+18:32:23.540 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Search Page ----
+18:32:23.541 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Add to Cart Page ----
+18:32:25.957 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Add to Cart Page ----
+18:32:25.957 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Shopping Cart Page ----
+18:32:28.111 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Shopping Cart Page ----
+18:32:28.111 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Checkout Page ----
+18:33:18.848 [main] INFO  testCases.TC_006_EndToEndTest - *** Starting TC_06_EndToEndTest ***
+18:33:18.853 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Home Page ----
+18:33:20.148 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Home Page ----
+18:33:20.148 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Registration Page ----
+18:33:22.724 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Registration Page ----
+18:33:22.724 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Login Page ----
+18:33:24.359 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Login Page ----
+18:33:24.359 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Search Page ----
+18:33:26.441 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Search Page ----
+18:33:26.441 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Add to Cart Page ----
+18:33:28.867 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Add to Cart Page ----
+18:33:28.867 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Shopping Cart Page ----
+18:33:30.986 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Shopping Cart Page ----
+18:33:30.986 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Checkout Page ----
+18:34:53.550 [main] INFO  testCases.TC_006_EndToEndTest - *** Starting TC_06_EndToEndTest ***
+18:34:53.554 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Home Page ----
+18:34:54.193 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Home Page ----
+18:34:54.194 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Registration Page ----
+18:34:56.798 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Registration Page ----
+18:34:56.799 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Login Page ----
+18:34:58.361 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Login Page ----
+18:34:58.361 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Search Page ----
+18:35:00.559 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Search Page ----
+18:35:00.560 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Add to Cart Page ----
+18:35:03.110 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Add to Cart Page ----
+18:35:03.110 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Shopping Cart Page ----
+18:35:04.544 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Shopping Cart Page ----
+18:35:04.545 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Checkout Page ----
+18:38:57.160 [main] INFO  testCases.TC_006_EndToEndTest - *** Starting TC_06_EndToEndTest ***
+18:38:57.164 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Home Page ----
+18:38:58.489 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Home Page ----
+18:38:58.489 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Registration Page ----
+18:39:01.008 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Registration Page ----
+18:39:01.009 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Login Page ----
+18:39:02.608 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Login Page ----
+18:39:02.608 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Search Page ----
+18:39:05.611 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Search Page ----
+18:39:05.611 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Add to Cart Page ----
+18:39:08.162 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Add to Cart Page ----
+18:39:08.162 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Shopping Cart Page ----
+18:39:09.564 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Shopping Cart Page ----
+18:39:09.565 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Checkout Page ----
+18:39:55.954 [main] INFO  testCases.TC_006_EndToEndTest - *** Starting TC_06_EndToEndTest ***
+18:39:55.959 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Home Page ----
+18:39:57.309 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Home Page ----
+18:39:57.309 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Registration Page ----
+18:39:59.886 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Registration Page ----
+18:39:59.886 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Login Page ----
+18:40:01.635 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Login Page ----
+18:40:01.635 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Search Page ----
+18:40:04.779 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Search Page ----
+18:40:04.779 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Add to Cart Page ----
+18:40:07.278 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Add to Cart Page ----
+18:40:07.278 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Shopping Cart Page ----
+18:40:08.698 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Shopping Cart Page ----
+18:40:08.698 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Checkout Page ----
+18:40:12.413 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Checkout Page ----
+18:40:12.413 [main] INFO  testCases.TC_006_EndToEndTest - *** Finished TC_06_EndToEndTest Successfully***
+10:10:42.077 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+10:10:42.151 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+10:10:43.479 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+10:10:43.517 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+10:10:46.244 [main] INFO  testCases.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+10:23:14.543 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+10:23:21.374 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest ***
+11:03:47.576 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+11:03:47.606 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+11:03:48.799 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+11:03:48.841 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+11:03:50.780 [main] INFO  testCases.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+11:06:56.587 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+11:07:01.718 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest ***
+11:13:28.712 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test
+11:13:41.517 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test
+11:13:54.219 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test
+11:14:06.884 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test
+11:14:19.610 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test
+11:16:41.363 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+11:16:41.401 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+11:16:43.291 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+11:16:43.327 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+11:16:45.675 [main] INFO  testCases.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***

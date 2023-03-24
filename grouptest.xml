@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="utilities.ExtentReportManager"/>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="Group-Test">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="testCases.TC_001_AccountRegTest">
+                <methods>
+                    <include name="test_AccountRegistration"/>
+                </methods>
+            </class>
+            <class name="testCases.TC_002_LoginTest">
+                <methods>
+                    <include name="test_LoginTest"/>
+                </methods>
+            </class>
+            <class name="testCases.TC_003_SearchTest">
+                <methods>
+                    <include name="test_SearchTest"/>
+                </methods>
+            </class>
+            <class name="testCases.TC_004_AddToCartTest">
+                <methods>
+                    <include name="test_AddToCartTest"/>
+                </methods>
+            </class>
+            <class name="testCases.TC_005LoginDataDrivenTest">
+                <methods>
+                    <include name="test_LoginDataDriven"/>
+                </methods>
+            </class>
+            <class name="testCases.TC_006_EndToEndTest">
+                <methods>
+                    <include name="test_EndToEnd"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

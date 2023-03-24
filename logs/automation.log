@@ -1,0 +1,254 @@
+11:17:07.116 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+11:17:07.150 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+11:17:09.070 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+11:17:09.107 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+11:17:11.522 [main] INFO  testCases.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+11:17:31.089 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+11:17:34.398 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+11:17:34.412 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+11:17:46.896 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+11:17:59.271 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+11:18:11.625 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+11:18:13.923 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+11:28:21.150 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+11:28:24.299 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+11:28:24.316 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+11:28:36.805 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+11:28:49.013 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+11:29:01.303 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+11:29:03.590 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+11:35:46.049 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+11:35:49.329 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+11:35:49.343 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+11:36:01.787 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+11:36:14.042 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+11:36:26.293 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+11:36:28.709 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+11:41:32.532 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+11:41:35.559 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+11:41:35.574 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+11:41:48.063 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+11:42:00.648 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+11:42:12.972 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+11:42:15.245 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+11:46:32.595 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+11:51:08.003 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+11:51:11.146 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+11:51:11.161 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+11:51:22.372 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+11:51:22.374 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+11:51:33.574 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+11:51:33.576 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+11:51:44.797 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+11:51:44.801 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+11:51:47.115 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+12:25:41.500 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+12:25:41.531 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+12:25:43.352 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+12:26:42.182 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+12:26:42.213 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+12:26:43.942 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+12:26:43.943 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+12:26:45.250 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+12:26:45.254 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+12:26:45.973 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+12:26:46.033 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+12:29:04.843 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+12:29:04.926 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+12:29:09.639 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+12:29:09.640 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+12:29:11.337 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+12:29:11.338 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+12:29:12.293 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+12:29:12.367 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+12:44:04.137 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+12:44:04.337 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+12:44:08.025 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+12:44:08.026 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+12:44:11.645 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+12:44:11.646 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+12:52:11.943 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+12:52:25.207 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+12:52:36.501 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+12:52:36.502 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+12:52:47.683 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+12:52:47.684 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+12:52:58.816 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+12:52:58.819 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+12:53:26.218 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+12:53:26.249 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+12:53:27.554 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+12:53:27.591 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+12:53:29.514 [main] INFO  testCases.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+12:53:50.206 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+12:53:50.237 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+12:53:51.495 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+12:53:51.532 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+12:53:53.473 [main] INFO  testCases.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+12:54:34.481 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+12:54:37.701 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+12:54:37.716 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+12:54:48.963 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+12:54:48.967 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+12:55:00.191 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+12:55:00.193 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+12:55:11.346 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+12:55:11.350 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+12:55:13.655 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+13:01:29.893 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+13:01:29.935 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+13:01:31.164 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+13:01:31.204 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+13:01:48.562 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+13:01:53.973 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest ***
+13:01:58.132 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+13:02:03.526 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+13:02:08.000 [main] INFO  testCases.TC_004_AddToCartTest - *** Starting TC_004_AddToCartTest ***
+13:02:15.246 [main] INFO  testCases.TC_004_AddToCartTest - *** Starting TC_004_AddToTest ***
+13:02:20.868 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+13:02:24.433 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+13:02:24.434 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+13:02:35.563 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+13:02:35.565 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+13:02:46.747 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+13:02:46.762 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+13:02:57.970 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+13:02:57.972 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+13:03:00.265 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+13:03:05.249 [main] INFO  testCases.TC_006_EndToEndTest - *** Starting TC_06_EndToEndTest ***
+13:03:05.249 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Home Page ----
+13:03:05.885 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Home Page ----
+13:03:05.885 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Registration Page ----
+13:03:08.278 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Registration Page ----
+13:03:08.278 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Login Page ----
+13:03:09.780 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Login Page ----
+13:03:09.780 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Search Page ----
+13:03:13.001 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Search Page ----
+13:03:13.001 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Add to Cart Page ----
+13:03:15.489 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Add to Cart Page ----
+13:03:15.489 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Shopping Cart Page ----
+13:03:18.256 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Shopping Cart Page ----
+13:03:18.256 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Checkout Page ----
+13:03:21.911 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Checkout Page ----
+13:03:21.911 [main] INFO  testCases.TC_006_EndToEndTest - *** Finished TC_06_EndToEndTest Successfully***
+13:14:23.788 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+13:14:23.817 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+13:14:24.379 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+13:14:24.419 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+13:14:26.351 [main] INFO  testCases.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+13:14:31.603 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+13:14:37.749 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest ***
+13:14:41.832 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+13:14:46.788 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+13:14:51.179 [main] INFO  testCases.TC_004_AddToCartTest - *** Starting TC_004_AddToCartTest ***
+13:14:59.362 [main] INFO  testCases.TC_004_AddToCartTest - *** Starting TC_004_AddToTest ***
+13:15:04.199 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+13:15:17.140 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+13:15:28.302 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+13:15:28.307 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+13:15:39.498 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+13:15:39.499 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+13:15:50.656 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+13:15:50.658 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+13:15:52.950 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+13:15:58.437 [main] INFO  testCases.TC_006_EndToEndTest - *** Starting TC_06_EndToEndTest ***
+13:15:58.437 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Home Page ----
+13:15:59.111 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Home Page ----
+13:15:59.112 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Registration Page ----
+13:16:01.515 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Registration Page ----
+13:16:01.515 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Login Page ----
+13:16:03.058 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Login Page ----
+13:16:03.058 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Search Page ----
+13:16:05.233 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Search Page ----
+13:16:05.233 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Add to Cart Page ----
+13:16:07.661 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Add to Cart Page ----
+13:16:07.662 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Shopping Cart Page ----
+13:16:09.121 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Shopping Cart Page ----
+13:16:09.121 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Checkout Page ----
+13:16:12.888 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Checkout Page ----
+13:16:12.888 [main] INFO  testCases.TC_006_EndToEndTest - *** Finished TC_06_EndToEndTest Successfully***
+13:19:42.247 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+13:19:42.284 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+13:19:43.499 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+13:19:43.537 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+13:20:32.020 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+13:20:32.049 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+13:20:33.215 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+13:20:33.255 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+13:20:35.123 [main] INFO  testCases.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+13:21:11.005 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+13:21:14.090 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+13:22:22.658 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+13:22:22.688 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+13:22:23.886 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+13:22:23.923 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+13:22:25.863 [main] INFO  testCases.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+13:22:30.276 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+13:22:36.128 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest ***
+13:22:40.335 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+13:22:46.824 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+13:22:50.827 [main] INFO  testCases.TC_004_AddToCartTest - *** Starting TC_004_AddToCartTest ***
+13:22:57.313 [main] INFO  testCases.TC_004_AddToCartTest - *** Starting TC_004_AddToTest ***
+13:23:02.814 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+13:23:05.934 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+13:23:05.936 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+13:23:17.084 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+13:23:17.086 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+13:23:28.278 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+13:23:28.280 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+13:23:39.463 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+13:23:39.465 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+13:23:41.725 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+13:23:47.124 [main] INFO  testCases.TC_006_EndToEndTest - *** Starting TC_06_EndToEndTest ***
+13:23:47.124 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Home Page ----
+13:23:48.348 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Home Page ----
+13:23:48.348 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Registration Page ----
+13:23:51.205 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Registration Page ----
+13:23:51.206 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Login Page ----
+13:23:52.670 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Login Page ----
+13:23:52.670 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Search Page ----
+13:23:55.953 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Search Page ----
+13:23:55.953 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Add to Cart Page ----
+13:23:58.349 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Add to Cart Page ----
+13:23:58.349 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Shopping Cart Page ----
+13:23:59.731 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Shopping Cart Page ----
+13:23:59.731 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Checkout Page ----
+13:24:03.257 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Checkout Page ----
+13:24:03.257 [main] INFO  testCases.TC_006_EndToEndTest - *** Finished TC_06_EndToEndTest Successfully***
+13:26:08.754 [main] INFO  testCases.TC_001_AccountRegTest - *** Starting TC_001_Account Registration Test ***
+13:26:08.781 [main] INFO  testCases.TC_001_AccountRegTest - *** On Home Page Clicked Register Link ***
+13:26:09.992 [main] INFO  testCases.TC_001_AccountRegTest - *** On Register Page Confirm Register Title ***
+13:26:10.031 [main] INFO  testCases.TC_001_AccountRegTest - *** Entering Required Data for Account Registration ***
+13:26:12.496 [main] INFO  testCases.TC_001_AccountRegTest - *** Completed TC_001_Account Registration Test ***
+13:26:17.916 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+13:26:23.506 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest ***
+13:26:28.004 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+13:26:33.423 [main] INFO  testCases.TC_003_SearchTest - *** Starting TC_003_SearchTest ***
+13:26:37.486 [main] INFO  testCases.TC_004_AddToCartTest - *** Starting TC_004_AddToCartTest ***
+13:26:44.739 [main] INFO  testCases.TC_004_AddToCartTest - *** Starting TC_004_AddToTest ***
+13:26:50.297 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+13:26:52.706 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+13:26:52.708 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+13:27:03.913 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+13:27:03.914 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+13:27:15.161 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+13:27:15.162 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+13:27:26.353 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+13:27:26.355 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Starting TC_007_LoginDataDriven Test ***
+13:27:28.635 [main] INFO  testCases.TC_005LoginDataDrivenTest - *** Finished TC_007_LoginDataDriven Test ***
+13:27:32.902 [main] INFO  testCases.TC_006_EndToEndTest - *** Starting TC_06_EndToEndTest ***
+13:27:32.903 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Home Page ----
+13:27:33.445 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Home Page ----
+13:27:33.446 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Registration Page ----
+13:27:35.827 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Registration Page ----
+13:27:35.827 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Login Page ----
+13:27:37.433 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Login Page ----
+13:27:37.433 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Search Page ----
+13:27:40.509 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Search Page ----
+13:27:40.510 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Add to Cart Page ----
+13:27:42.941 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Add to Cart Page ----
+13:27:42.941 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Shopping Cart Page ----
+13:27:45.027 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Shopping Cart Page ----
+13:27:45.027 [main] INFO  testCases.TC_006_EndToEndTest - ---- Starting Checkout Page ----
+13:27:48.558 [main] INFO  testCases.TC_006_EndToEndTest - ---- Completed Checkout Page ----
+13:27:48.558 [main] INFO  testCases.TC_006_EndToEndTest - *** Finished TC_06_EndToEndTest Successfully***
